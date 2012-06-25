@@ -11,4 +11,5 @@ craps-odds-95.py
 This is an update to the 86 program above.  It will also bet the 6 if the pass roll is a 5.  It will also bet the 8 if the pass roll is a 9.  
 
 Enjoy
+Eric
 
