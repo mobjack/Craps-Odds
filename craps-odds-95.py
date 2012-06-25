@@ -96,7 +96,7 @@ def game():
 def main():
 	losses = 0
 	wins = 0
-	games = 1
+	games = 1000
 	while (games != 0):
 		winloose = game()
 		
